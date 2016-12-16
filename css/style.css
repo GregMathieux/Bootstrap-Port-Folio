@@ -11,7 +11,7 @@ body{
   overflow-x: hidden;
 }
 #btns{
-  margin:auto;
+  /*margin:auto;*/
   /*display: flex;*/
   margin-left: 25%;
 }
@@ -19,8 +19,8 @@ body{
   width:130px;
   height:30px;
   background-color: #596BAB;
-  margin: 20px auto 0;
-  margin-top: 100px;
+  /*margin: 20px auto 0;*/
+  margin-top: 25%;
   text-align:center;
   /*display:inline-block;*/
   font-size:16px;
